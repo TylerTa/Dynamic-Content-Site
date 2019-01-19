@@ -1,0 +1,39 @@
+body, h1, h2, h3, h4, h5, h6 {font-family: "Lato", sans-serif}
+
+.w3-bar, h1, button {font-family: "Montserrat", sans-serif}
+
+.fa-anchor, .fa-coffee {font-size:200px}
+
+.error {padding:0.01em 16px; color:#fff!important; background-color:#f44336!important; text-align:center; padding-top:28px!important; padding-bottom:28px!important;}
+
+.takenError {color: red;}
+
+.success {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.contentDelete {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.content_detail {
+    background-color: #565656;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.content_title_dropDown {
+    background-color: darkgreen;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
